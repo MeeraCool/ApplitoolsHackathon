@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" verbose="0" name="Failed suite [Surefire suite]">
+  <test thread-count="1" verbose="0" name="Surefire test(failed)">
+    <classes>
+      <class name="com.iexceed.TraditionalTestsV2.Task3">
+        <methods>
+          <include name="Mobile" invocation-numbers="0"/>
+          <include name="CloseDriver"/>
+          <include name="Laptop_Desktop" invocation-numbers="0 1"/>
+          <include name="Tab" invocation-numbers="0 1"/>
+        </methods>
+      </class> <!-- com.iexceed.TraditionalTestsV2.Task3 -->
+      <class name="com.iexceed.TraditionalTestsV2.Task2">
+        <methods>
+          <include name="Mobile" invocation-numbers="0"/>
+          <include name="CloseDriver"/>
+          <include name="Tab" invocation-numbers="0 1"/>
+          <include name="Laptop_Desktop" invocation-numbers="0 1"/>
+        </methods>
+      </class> <!-- com.iexceed.TraditionalTestsV2.Task2 -->
+      <class name="com.iexceed.TraditionalTestsV2.Task1">
+        <methods>
+          <include name="Mobile" invocation-numbers="0"/>
+          <include name="Tab" invocation-numbers="0 1"/>
+          <include name="Laptop_Desktop" invocation-numbers="0 1"/>
+          <include name="CloseDriver"/>
+        </methods>
+      </class> <!-- com.iexceed.TraditionalTestsV2.Task1 -->
+    </classes>
+  </test> <!-- Surefire test(failed) -->
+</suite> <!-- Failed suite [Surefire suite] -->

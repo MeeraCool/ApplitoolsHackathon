@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="15" passed="15">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="350902" started-at="2020-06-30T07:35:53Z" finished-at="2020-06-30T07:41:44Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="350902" started-at="2020-06-30T07:35:53Z" finished-at="2020-06-30T07:41:44Z">
+      <class name="com.iexceed.TraditionalTestsV1.Task2">
+        <test-method status="PASS" signature="Laptop_Desktop(java.lang.String, java.lang.String, int, int)[pri:0, instance:com.iexceed.TraditionalTestsV1.Task2@2ef9b8bc]" name="Laptop_Desktop" duration-ms="7471" started-at="2020-06-30T07:38:00Z" data-provider="BrowserViewPort" finished-at="2020-06-30T07:38:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Laptop/Desktop]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1200]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[700]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Laptop_Desktop -->
+        <test-method status="PASS" signature="CloseDriver()[pri:0, instance:com.iexceed.TraditionalTestsV1.Task2@2ef9b8bc]" name="CloseDriver" is-config="true" duration-ms="77" started-at="2020-06-30T07:38:08Z" finished-at="2020-06-30T07:38:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseDriver -->
+        <test-method status="PASS" signature="Laptop_Desktop(java.lang.String, java.lang.String, int, int)[pri:0, instance:com.iexceed.TraditionalTestsV1.Task2@2ef9b8bc]" name="Laptop_Desktop" duration-ms="12467" started-at="2020-06-30T07:38:08Z" data-provider="BrowserViewPort" finished-at="2020-06-30T07:38:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Laptop/Desktop]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Firefox]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1200]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[700]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Laptop_Desktop -->
+        <test-method status="PASS" signature="CloseDriver()[pri:0, instance:com.iexceed.TraditionalTestsV1.Task2@2ef9b8bc]" name="CloseDriver" is-config="true" duration-ms="8247" started-at="2020-06-30T07:38:20Z" finished-at="2020-06-30T07:38:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseDriver -->
+        <test-method status="PASS" signature="Mobile(java.lang.String, java.lang.String, int, int)[pri:0, instance:com.iexceed.TraditionalTestsV1.Task2@2ef9b8bc]" name="Mobile" duration-ms="13804" started-at="2020-06-30T07:38:29Z" data-provider="BrowserViewPort" finished-at="2020-06-30T07:38:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mobile]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[450]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[700]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Mobile -->
+        <test-method status="PASS" signature="CloseDriver()[pri:0, instance:com.iexceed.TraditionalTestsV1.Task2@2ef9b8bc]" name="CloseDriver" is-config="true" duration-ms="74" started-at="2020-06-30T07:38:42Z" finished-at="2020-06-30T07:38:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseDriver -->
+        <test-method status="PASS" signature="Tab(java.lang.String, java.lang.String, int, int)[pri:0, instance:com.iexceed.TraditionalTestsV1.Task2@2ef9b8bc]" name="Tab" duration-ms="18054" started-at="2020-06-30T07:38:43Z" data-provider="BrowserViewPort" finished-at="2020-06-30T07:39:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Tab]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[780]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[700]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tab -->
+        <test-method status="PASS" signature="CloseDriver()[pri:0, instance:com.iexceed.TraditionalTestsV1.Task2@2ef9b8bc]" name="CloseDriver" is-config="true" duration-ms="70" started-at="2020-06-30T07:39:01Z" finished-at="2020-06-30T07:39:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseDriver -->
+        <test-method status="PASS" signature="Tab(java.lang.String, java.lang.String, int, int)[pri:0, instance:com.iexceed.TraditionalTestsV1.Task2@2ef9b8bc]" name="Tab" duration-ms="22914" started-at="2020-06-30T07:39:01Z" data-provider="BrowserViewPort" finished-at="2020-06-30T07:39:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Tab]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Firefox]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[780]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[700]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tab -->
+        <test-method status="PASS" signature="CloseDriver()[pri:0, instance:com.iexceed.TraditionalTestsV1.Task2@2ef9b8bc]" name="CloseDriver" is-config="true" duration-ms="10235" started-at="2020-06-30T07:39:24Z" finished-at="2020-06-30T07:39:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseDriver -->
+      </class> <!-- com.iexceed.TraditionalTestsV1.Task2 -->
+      <class name="com.iexceed.TraditionalTestsV1.Task3">
+        <test-method status="PASS" signature="Laptop_Desktop(java.lang.String, java.lang.String, int, int)[pri:0, instance:com.iexceed.TraditionalTestsV1.Task3@5d624da6]" name="Laptop_Desktop" duration-ms="10653" started-at="2020-06-30T07:39:34Z" data-provider="BrowserViewPort" finished-at="2020-06-30T07:39:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Laptop/Desktop]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1200]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[700]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Laptop_Desktop -->
+        <test-method status="PASS" signature="CloseDriver()[pri:0, instance:com.iexceed.TraditionalTestsV1.Task3@5d624da6]" name="CloseDriver" is-config="true" duration-ms="78" started-at="2020-06-30T07:39:44Z" finished-at="2020-06-30T07:39:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseDriver -->
+        <test-method status="PASS" signature="Laptop_Desktop(java.lang.String, java.lang.String, int, int)[pri:0, instance:com.iexceed.TraditionalTestsV1.Task3@5d624da6]" name="Laptop_Desktop" duration-ms="16227" started-at="2020-06-30T07:39:45Z" data-provider="BrowserViewPort" finished-at="2020-06-30T07:40:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Laptop/Desktop]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Firefox]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1200]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[700]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Laptop_Desktop -->
+        <test-method status="PASS" signature="CloseDriver()[pri:0, instance:com.iexceed.TraditionalTestsV1.Task3@5d624da6]" name="CloseDriver" is-config="true" duration-ms="7717" started-at="2020-06-30T07:40:01Z" finished-at="2020-06-30T07:40:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseDriver -->
+        <test-method status="PASS" signature="Mobile(java.lang.String, java.lang.String, int, int)[pri:0, instance:com.iexceed.TraditionalTestsV1.Task3@5d624da6]" name="Mobile" duration-ms="19065" started-at="2020-06-30T07:40:08Z" data-provider="BrowserViewPort" finished-at="2020-06-30T07:40:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mobile]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[450]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[700]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Mobile -->
+        <test-method status="PASS" signature="CloseDriver()[pri:0, instance:com.iexceed.TraditionalTestsV1.Task3@5d624da6]" name="CloseDriver" is-config="true" duration-ms="72" started-at="2020-06-30T07:40:28Z" finished-at="2020-06-30T07:40:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseDriver -->
+        <test-method status="PASS" signature="Tab(java.lang.String, java.lang.String, int, int)[pri:0, instance:com.iexceed.TraditionalTestsV1.Task3@5d624da6]" name="Tab" duration-ms="30344" started-at="2020-06-30T07:40:28Z" data-provider="BrowserViewPort" finished-at="2020-06-30T07:40:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Tab]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[780]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[700]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tab -->
+        <test-method status="PASS" signature="CloseDriver()[pri:0, instance:com.iexceed.TraditionalTestsV1.Task3@5d624da6]" name="CloseDriver" is-config="true" duration-ms="74" started-at="2020-06-30T07:40:58Z" finished-at="2020-06-30T07:40:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseDriver -->
+        <test-method status="PASS" signature="Tab(java.lang.String, java.lang.String, int, int)[pri:0, instance:com.iexceed.TraditionalTestsV1.Task3@5d624da6]" name="Tab" duration-ms="38208" started-at="2020-06-30T07:40:58Z" data-provider="BrowserViewPort" finished-at="2020-06-30T07:41:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Tab]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Firefox]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[780]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[700]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tab -->
+        <test-method status="PASS" signature="CloseDriver()[pri:0, instance:com.iexceed.TraditionalTestsV1.Task3@5d624da6]" name="CloseDriver" is-config="true" duration-ms="7916" started-at="2020-06-30T07:41:36Z" finished-at="2020-06-30T07:41:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseDriver -->
+      </class> <!-- com.iexceed.TraditionalTestsV1.Task3 -->
+      <class name="com.iexceed.TraditionalTestsV1.Task1">
+        <test-method status="PASS" signature="Laptop_Desktop(java.lang.String, java.lang.String, int, int)[pri:0, instance:com.iexceed.TraditionalTestsV1.Task1@5315b42e]" name="Laptop_Desktop" duration-ms="20932" started-at="2020-06-30T07:35:53Z" data-provider="BrowserViewPort" finished-at="2020-06-30T07:36:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Laptop/Desktop]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1200]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[700]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Laptop_Desktop -->
+        <test-method status="PASS" signature="CloseDriver()[pri:0, instance:com.iexceed.TraditionalTestsV1.Task1@5315b42e]" name="CloseDriver" is-config="true" duration-ms="122" started-at="2020-06-30T07:36:14Z" finished-at="2020-06-30T07:36:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseDriver -->
+        <test-method status="PASS" signature="Laptop_Desktop(java.lang.String, java.lang.String, int, int)[pri:0, instance:com.iexceed.TraditionalTestsV1.Task1@5315b42e]" name="Laptop_Desktop" duration-ms="24291" started-at="2020-06-30T07:36:14Z" data-provider="BrowserViewPort" finished-at="2020-06-30T07:36:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Laptop/Desktop]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Firefox]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1200]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[700]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Laptop_Desktop -->
+        <test-method status="PASS" signature="CloseDriver()[pri:0, instance:com.iexceed.TraditionalTestsV1.Task1@5315b42e]" name="CloseDriver" is-config="true" duration-ms="7063" started-at="2020-06-30T07:36:39Z" finished-at="2020-06-30T07:36:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseDriver -->
+        <test-method status="PASS" signature="Mobile(java.lang.String, java.lang.String, int, int)[pri:0, instance:com.iexceed.TraditionalTestsV1.Task1@5315b42e]" name="Mobile" duration-ms="15493" started-at="2020-06-30T07:36:46Z" data-provider="BrowserViewPort" finished-at="2020-06-30T07:37:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mobile]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[450]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[700]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Mobile -->
+        <test-method status="PASS" signature="CloseDriver()[pri:0, instance:com.iexceed.TraditionalTestsV1.Task1@5315b42e]" name="CloseDriver" is-config="true" duration-ms="71" started-at="2020-06-30T07:37:01Z" finished-at="2020-06-30T07:37:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseDriver -->
+        <test-method status="PASS" signature="Tab(java.lang.String, java.lang.String, int, int)[pri:0, instance:com.iexceed.TraditionalTestsV1.Task1@5315b42e]" name="Tab" duration-ms="19190" started-at="2020-06-30T07:37:01Z" data-provider="BrowserViewPort" finished-at="2020-06-30T07:37:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Tab]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[780]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[700]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tab -->
+        <test-method status="PASS" signature="CloseDriver()[pri:0, instance:com.iexceed.TraditionalTestsV1.Task1@5315b42e]" name="CloseDriver" is-config="true" duration-ms="73" started-at="2020-06-30T07:37:20Z" finished-at="2020-06-30T07:37:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseDriver -->
+        <test-method status="PASS" signature="Tab(java.lang.String, java.lang.String, int, int)[pri:0, instance:com.iexceed.TraditionalTestsV1.Task1@5315b42e]" name="Tab" duration-ms="31919" started-at="2020-06-30T07:37:21Z" data-provider="BrowserViewPort" finished-at="2020-06-30T07:37:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Tab]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Firefox]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[780]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[700]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tab -->
+        <test-method status="PASS" signature="CloseDriver()[pri:0, instance:com.iexceed.TraditionalTestsV1.Task1@5315b42e]" name="CloseDriver" is-config="true" duration-ms="7920" started-at="2020-06-30T07:37:52Z" finished-at="2020-06-30T07:38:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseDriver -->
+      </class> <!-- com.iexceed.TraditionalTestsV1.Task1 -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

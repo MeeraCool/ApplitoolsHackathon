@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" verbose="0" name="Failed suite [Surefire suite]">
+  <test thread-count="1" verbose="0" name="Surefire test(failed)">
+    <classes>
+      <class name="com.iexceed.TraditionalTestsV1.Task3">
+        <methods>
+          <include name="Tab" invocation-numbers="1"/>
+          <include name="CloseDriver"/>
+        </methods>
+      </class> <!-- com.iexceed.TraditionalTestsV1.Task3 -->
+    </classes>
+  </test> <!-- Surefire test(failed) -->
+</suite> <!-- Failed suite [Surefire suite] -->

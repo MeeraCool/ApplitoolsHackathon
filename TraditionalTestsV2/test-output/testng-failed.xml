@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="com.iexceed.TraditionalTestsV2.Task1">
+        <methods>
+          <include name="Mobile" invocation-numbers="0"/>
+          <include name="Tab" invocation-numbers="0 1"/>
+          <include name="Laptop_Desktop" invocation-numbers="0 1"/>
+          <include name="CloseDriver"/>
+        </methods>
+      </class> <!-- com.iexceed.TraditionalTestsV2.Task1 -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
