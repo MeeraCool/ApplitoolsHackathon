@@ -13,7 +13,7 @@ Used Selenium Webdriver with Java
 ## Getting Started
 
 # 1) Ensure that the drivers for Chrome,Firefox and Edge browsers were installed and excecutable  in Local Machine
-  2) Clone the repository - `www.url.com`
+  2) Clone the repository - `https://github.com/MeeraCool/ApplitoolsHackathon`
 
 ### Run Modern Tests
 
