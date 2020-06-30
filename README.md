@@ -30,7 +30,7 @@ Used Selenium Webdriver with Java
 -Open the terminal in Project Path and run `'mvn -Dtest=TestSuiteV2.java test'`
      (Refer Note 1)
 
--Test Results for Modern Approach - click [Test Results Dashboard](www.url2.com)
+-Test Results for Modern Approach - click [Test Results Dashboard](https://eyes.applitools.com/app/test-results/00000251810103229804?accountId=GAbcV77hvkmxJ5HytTJaag~~&display=details&top=00000251810103229804%286%29)
   
 
 ### Run Traditional Tests
